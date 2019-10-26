@@ -17,3 +17,4 @@ $nomor = trim(fgets(STDIN));
 $execute = kirim($nomor);
 print $execute;
 ?>
+this making by 
